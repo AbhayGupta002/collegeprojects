@@ -12,3 +12,5 @@ int main(){
     }
     return 0;
 }
+//op - enter the termes:6
+//7	10	8	11	9	12	
