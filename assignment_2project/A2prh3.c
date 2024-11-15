@@ -11,3 +11,5 @@ int main(){
     }
     return 0;
 }
+//op - enter the series how much terms you want print:5
+// 2	9	39	161	651	
