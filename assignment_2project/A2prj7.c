@@ -12,3 +12,5 @@ int main() {
     }
     return 0;
 }
+//op-enter the term:5
+//A+1+b+2+c+3+d+4+e+5+
