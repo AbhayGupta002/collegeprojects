@@ -14,3 +14,8 @@ int main() {
     }printf("\ntotal sum is %d",i);
     return 0;
 }
+//op - enter the infinite no:(zero to end:)22
+//enter the infinite no:(zero to end:)44
+//enter the infinite no:(zero to end:)0
+
+//total sum is 66
