@@ -21,3 +21,5 @@ int main(){
         num3 = temp;
     }
 }
+//o/p- enter the number a:b:c:22 54 33
+//THE SERIES IS 22 33 44
