@@ -10,3 +10,5 @@ int main() {
     }
     return 0;
 }
+//op-enter the term:7
+//APK	BQL	CRM	DSN	ETO	FUP	GVQ	
