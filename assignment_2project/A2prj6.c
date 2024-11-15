@@ -11,3 +11,5 @@ int main() {
     }
     return 0;
 }
+//op - enter the term:6
+//BAZ	DBY	FCX	HDW	JEV	LFU	
