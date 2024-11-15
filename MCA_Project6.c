@@ -10,3 +10,5 @@ int main(){
             printf("number is even:");
     }
 }
+//o/p- enter the number check even or odd:45
+//number is odd:
