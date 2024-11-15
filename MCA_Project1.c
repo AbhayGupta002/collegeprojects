@@ -15,3 +15,6 @@ int main(){
     xfun(x);
     xyz(x,y,z);
 }
+//o/p -   Enter the value of x:y:z:  4  5  8
+// the value of x equation is 152
+//the value of equation is 541
