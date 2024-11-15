@@ -27,3 +27,6 @@ int main() {
     sumOfSqr(); // Call the function to execute
    // return 0; // Return from main
 }
+//op-Enter two numbers: 33 22
+//Sum of cubes: 46585
+//Enter two numbers: 
