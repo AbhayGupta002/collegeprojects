@@ -40,3 +40,10 @@ int main(){
     printf("invalid input");
   }
 }
+//o/p- enter the ammount:833
+//rs 500:1
+//rs 100:3
+//rs 20:1
+//rs 10:1
+//rs 2:1
+//rs 1:1
