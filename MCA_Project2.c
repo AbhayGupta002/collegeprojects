@@ -26,3 +26,7 @@ int main(){
     side2(m,n);
     hypo(m,n);
 }
+//o/p - enter the value of m,n: 10 20 
+// the value of side is -300
+//the value of side 2 is %400
+//the value of hypotenuse is 500
