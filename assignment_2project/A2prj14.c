@@ -27,3 +27,28 @@ int main() {
 
     return 0;
 }
+//op - Voter 1, enter 'a' for A & 'b' for B: a
+/*
+Voter 2, enter 'a' for A & 'b' for B: b
+Voter 3, enter 'a' for A & 'b' for B: b
+Voter 4, enter 'a' for A & 'b' for B: b
+Voter 5, enter 'a' for A & 'b' for B: b
+Voter 6, enter 'a' for A & 'b' for B: a
+Voter 7, enter 'a' for A & 'b' for B: b
+Voter 8, enter 'a' for A & 'b' for B: a
+Voter 9, enter 'a' for A & 'b' for B: b
+Voter 10, enter 'a' for A & 'b' for B: b
+Voter 11, enter 'a' for A & 'b' for B: b
+Voter 12, enter 'a' for A & 'b' for B: a
+Voter 13, enter 'a' for A & 'b' for B: a
+Voter 14, enter 'a' for A & 'b' for B: a
+Voter 15, enter 'a' for A & 'b' for B: a
+
+Votes for A: 7
+Votes for B: 8
+*/
+
+=== Code Execution Successful ===
+
+
+
