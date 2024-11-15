@@ -21,3 +21,12 @@ int main() {
 
     return 0;
 }
+//op - ASCII value is 32 character: ' '
+/*
+Do you want to see the next character? (y/n): y
+ASCII value is 33 character: '!'
+Do you want to see the next character? (y/n): y
+ASCII value is 34 character: '"'
+Do you want to see the next character? (y/n): n
+Program terminated 
+    */
