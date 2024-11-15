@@ -15,3 +15,6 @@ int main(){
     scanf("%d%d",&length,&width);
     areaOfRect( length, width);
 }
+//o/p-enter the length & width of yrd:66 55
+//area of rectangle is: 3630.00:
+//time for cut the grass is 1815.00
