@@ -1,4 +1,4 @@
-//reverse the number is c:
+//reverse the number in c:
 #include <stdio.h>
 
 int main() {
@@ -18,3 +18,5 @@ int main() {
     }
     return 0;
 }
+//enter three digit number:932
+//reverse order digit:239
