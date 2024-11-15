@@ -40,3 +40,6 @@ int main() {
 
     return 0;
 }
+//op- Enter a number: 5467
+//Largest digit: 7
+//Smallest digit: 4
