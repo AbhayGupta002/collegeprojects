@@ -16,3 +16,5 @@ int main(){
     }printf("\n");
     return 0;
 }
+//op- enter series of termes:5
+//the series is:4, 36, 324, 2916, 26244
